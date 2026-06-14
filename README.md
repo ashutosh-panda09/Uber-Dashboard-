@@ -10,28 +10,35 @@ The reason we made this dashboard is to take the raw data from Uber rides and tu
   **Booking Analysis**
 * We can see which rides were finished, which were cancelled and which were not finished.
 * We can also look at how bookings are doing overall.
+
   **Revenue Insights**
 * We can see how much money is being made from rides.
 * We can compare how money different types of vehicles are making.
-* **Distance Metrics**
+
+*  **Distance Metrics**
 * We can see how far vehicles are traveling in total.
 * We can also see how far each trip is on average.
+
   **Trend Analysis**
 * We can look at how bookingsre doing each month and each quarter.
 * We can see how money is being made over time.
-  **Vehicle Performance**
+
+   **Vehicle Performance**
 * We can compare types of vehicles like Auto, Bike, Go Mini Go Sedan, Premier Sedan and Uber XL.
 * We can see which types of vehicles are doing the best.
- **Location Analysis**
+
+  **Location Analysis**
 * We can find out where people are getting picked up and dropped off the most.
 * We can understand where people need rides the most.
-  **Customer Experience Metrics**
+
+   **Customer Experience Metrics**
 * We can see how customers are rating us on average.
 * We can also see how customers are rating drivers on average.
-  **Interactive Dashboard**
+
+   **Interactive Dashboard**
 * We can use filters and navigation to get around the dashboard
 * The dashboard is designed to be easy to use and look modern.
-* 
+
 ## Tools and Technologies
 * Power BI
 * Power Query
@@ -40,4 +47,4 @@ The reason we made this dashboard is to take the raw data from Uber rides and tu
 * Data Visualization
   
 ## Dashboard Preview
-Dashboard - 
+![Dashboard Preview](https://github.com/ashutosh-panda09/Uber-Dashboard-/blob/main/Uber%20Sales%20Dashboard%20Image.png).
